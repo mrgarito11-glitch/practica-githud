@@ -1,0 +1,11 @@
+## ejercicios.pseint
+
+Algoritmosuma
+	// solicitar un numero si es mayor  //
+	escribir "ingrese el num1"
+	leer num1
+	escribir "  ingrese el num2"
+	leer num2
+	escribir "Resultado: " num1 + num2 
+	
+FinAlgoritmo
