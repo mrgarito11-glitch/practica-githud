@@ -9,3 +9,6 @@ Aprender el uso basico de GitHub, commits, ramas u pull request.
 - README
 - Carpeta semana-01
 - evidencias
+ ## herramientas usadas
+- Githud
+- Pseint
