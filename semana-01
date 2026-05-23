@@ -6,7 +6,7 @@ Algoritmosuma
 	leer num1
 	escribir "  ingrese el num2";
 	leer num2
-	escribir "Resultado: " num1 + num2 
+	escribir "Resultado: "; num1 + num2 
 	
 FinAlgoritmo
 
