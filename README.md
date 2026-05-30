@@ -1,6 +1,6 @@
 # practica-githud
 ## Autor
-Nahum Eliab Martinez Hernandez
+Gabriel Salinas Garcia 
 ## Carrera
 Ingeneria en Sistemas
 ## Objetivo
