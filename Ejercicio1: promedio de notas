@@ -1,0 +1,24 @@
+PSEUDOCODIGO
+
+Algoritmo
+Escribir " ingrese nota1"
+Leer nota1
+Escribir "ingrese nota2"
+Leer nota2
+Escribir "ingrese nota3"
+Leer nota3
+
+Promedio = (nota1 + nota2 + nota3) ÷ 3
+
+Escribir "el promedio es: "
+Escribir promedio
+Finalgoritmo
+
+CODIGO PYTHON:
+nota1=float(input("Ingrese la primer nota: "))
+nota2=float(input("Ingrese la segunda nota: "))
+nota3=float(input("Ingrese la tercer nota: "))
+
+promedio=(nota1+nota2+nota3)/3
+
+print("El promedio de las notas es: ",promedio)
