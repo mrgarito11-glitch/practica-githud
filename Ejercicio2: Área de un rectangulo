@@ -1,0 +1,25 @@
+PSEUDOCODIGO
+Algoritmo CalcularPromedio
+    
+    Escribir "Ingrese nota 1:"
+    Leer nota1
+    Escribir "Ingrese nota 2:"
+    Leer nota2
+    Escribir "Ingrese nota 3:"
+    Leer nota3
+    
+    
+    promedio = (nota1 + nota2 + nota3) / 3
+    
+
+    Escribir "El promedio es: ", promedio
+FinAlgoritmo
+
+CODIGO PYTHON:
+
+base=float(input("Dijite la base del rectangulo:"))
+altura=float(input("Dijite la altura del rectangulo: "))
+
+area=base*altura
+
+print("El area del rectangulo es: ", area)
