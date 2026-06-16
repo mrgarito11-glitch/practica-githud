@@ -1,0 +1,3 @@
+calculo de IVA en python 
+
+precio_neto = float(input("Ingrese el precio neto del producto: ")) 2 3 iva = precio_neto * 0.15 4 precio_final = precio_neto + iva 5 6 print("Precio neto:", precio_neto) 7 print("IVA (15%):", iva) 8 print"Precio final a pagar.", precio_final)
